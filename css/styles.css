@@ -1,0 +1,14 @@
+
+h1 {
+    color: black;
+    display: inline-block;
+    border-bottom: 2px solid black;
+    width:max-content;
+}
+
+.nome-professor {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
